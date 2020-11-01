@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my Personal Portfolio Page
 
-I'm glad you are here. I plan to talk about ...
+I'll show some of the things I have done.
